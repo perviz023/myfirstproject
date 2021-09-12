@@ -62,6 +62,7 @@ body {
 
  .logo {
      margin-right: 69px;
+     padding: 13px;
  }
 
  .menu {
@@ -139,6 +140,7 @@ body {
 
  .desc-left, .desc-right {
      width: 567px;
+     padding: 13px;
  }
 
  .gallery img {
